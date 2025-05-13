@@ -25,7 +25,7 @@ const showEscapeToast = () => {
 
 const escapeBeingPressed = ref(false);
 
-let remainingEscapes = 0;
+let remainingEscapes = 1;
 
 const handleEscape = () => {
   const toasts = toastService.getToasts();
