@@ -10,7 +10,7 @@ Idea: toasts that decrease the usability to the point of uselessness.
 
 ## Analysis
 
-> > ### UX Qualitätszeile
+> > ### UX Qualitätsziele
 > >
 > > - Zufriedenheit der Nutzer mit dem Tool
 > > - Effizienz der Nutzer/ Niedrige Time to Task Completion
