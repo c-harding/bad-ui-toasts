@@ -21,7 +21,7 @@ Idea: toasts that decrease the usability to the point of uselessness.
 > > - Geringerer Support-Aufwand im laufenden Betrieb
 > > - Geringere Produkt-Schulungskosten
 >
-> Durch diese UI habe ich versucht, so viele dieser Zielen wie möglich zu verletzen.
+> Durch diese UI habe ich versucht, so viele dieser Ziele wie möglich zu verletzen.
 >
 > > - Effizienz der Nutzer/ Niedrige Time to Task Completion
 >
